@@ -1,29 +1,15 @@
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgb(116, 38, 64);
-    color: aliceblue;
+    background-color: #0a1b989e;
 }
 
-article,
-footer {
-    background-color: rgb(158, 69, 85);
-    padding: 10px;
+p {
+    color: #ca822f;
+    background-color: #293883;
+    font-size: 1.2rem;
 }
 
-main {
-    display: flex;
-    gap: 8px;
-}
 
-a {
-    text-decoration: none;
-
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-footer {
-    margin-top: 10px;
+h1 {
+    color: #ca822f;
+    font-size: 1.7rem;
 }
